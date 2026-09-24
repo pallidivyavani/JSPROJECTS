@@ -1,2 +1,3 @@
-let char = Array.from("Hello ");
-console.log(char);
+// let char = Array.from("Hello ");
+// console.log(char);
+
