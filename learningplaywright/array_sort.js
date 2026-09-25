@@ -1,0 +1,3 @@
+let n = [50, 10, 40, 20, 30];
+n.sort();
+console.log(n);
